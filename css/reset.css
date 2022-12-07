@@ -6,7 +6,7 @@
 }
 
 img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
   display: block;
   border-radius: 5px;
@@ -22,5 +22,5 @@ a {
 }
 
 body {
-  font-family: "Volkorn", Georgia, sans-serif;
+  font-family: "Vollkorn", Georgia, sans-serif;
 }
